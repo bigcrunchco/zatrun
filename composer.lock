@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d618d2d4557d2b59a88e7d942dd11063",
+    "content-hash": "278341423986b8e39d882657b911511b",
     "packages": [
         {
             "name": "composer/installers",
@@ -1658,7 +1658,8 @@
         "ext-imagick": "*",
         "ext-mbstring": "*",
         "ext-exif": "*",
-        "ext-gd": "*"
+        "ext-gd": "*",
+        "ext-intl": "*"
     },
     "platform-dev": [],
     "plugin-api-version": "2.6.0"
