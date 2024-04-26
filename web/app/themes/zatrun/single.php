@@ -56,7 +56,7 @@
 							</div>
 
 							<div class="disclaimer">
-								<p><?php bloginfo('name'); ?>, finans dünyasındaki güncel gelişmeleri okuyucularına sunarken, yatırım tavsiyesi olmadığını belirtip, sağlanan bilgilerin kendi araştırmalarıyla değerlendirilmesi gerektiğini vurgular; sitedeki bilgilerden kaynaklanan zararlardan sorumlu tutulamaz ve okuyucuların herhangi bir finansal işlem yapmadan önce kendi risk analizlerini yapmalarını önerir.</p>
+								<p><?php bloginfo('name'); ?>, While providing updates on current financial developments, we emphasize that we do not offer investment advice and urge readers to evaluate the information provided through their own research. We cannot be held responsible for any losses resulting from the information on our site, and we recommend readers to conduct their own risk analysis before engaging in any financial transactions.</p>
 							</div>
 
 							<?php endwhile;
