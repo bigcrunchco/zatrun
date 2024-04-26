@@ -72,7 +72,7 @@
 
 						<div class="smilar">
 							<div class="header">
-								<span class="title">İlginizi Çekebilir</span>
+								<span class="title">You may be interested</span>
 							</div>
 							<div class="row">
 								<?php
