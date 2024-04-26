@@ -47,7 +47,8 @@
     "ext-mbstring": "*",
     "ext-exif": "*",
     "ext-gd": "*",
-    "ext-intl": "*"
+    "ext-intl": "*",
+    "wpackagist-plugin/do-spaces-sync": "^2.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
