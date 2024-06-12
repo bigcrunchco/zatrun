@@ -47,7 +47,8 @@
     "ext-exif": "*",
     "ext-gd": "*",
     "ext-intl": "*",
-    "wpackagist-plugin/do-spaces-sync": "^2.2"
+    "wpackagist-plugin/do-spaces-sync": "^2.2",
+    "wpackagist-plugin/litespeed-cache": "^6.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",

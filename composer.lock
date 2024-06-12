@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5f5c11ddb10fda568f3cd3113344e8ec",
+    "content-hash": "0134cfeb57bcbcf8155d9a8c60ae891f",
     "packages": [
         {
             "name": "composer/installers",
@@ -1126,6 +1126,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/do-spaces-sync/"
+        },
+        {
+            "name": "wpackagist-plugin/litespeed-cache",
+            "version": "6.2.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/litespeed-cache/",
+                "reference": "tags/6.2.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/litespeed-cache.6.2.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/litespeed-cache/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
