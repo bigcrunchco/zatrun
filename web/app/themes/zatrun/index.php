@@ -148,7 +148,7 @@
 					<div class="posts">
 						<div class="header">
 							<h1 class="d-none">Finans Haberleri</h1>
-							<span class="title">Son Haberler</span>
+							<span class="title">Last News</span>
 						</div>
 
 						<div class="post-list">

@@ -80,7 +80,7 @@
 								</div>
 							</div>
 							<div class="ticker">
-								<span class="name">GRAM ALTIN</span>
+								<span class="name">GRAM GOLD</span>
 								<div class="price" data-symbol="XGLD">
 									<div class="loading"></div>
 									<span class="value"></span>
@@ -88,7 +88,7 @@
 								</div>
 							</div>
 							<div class="ticker">
-								<span class="name">ALTIN (ONS)</span>
+								<span class="name">GOLD(ONS)</span>
 								<div class="price" data-symbol="XAU/USD">
 									<div class="loading"></div>
 									<span class="value"></span>
