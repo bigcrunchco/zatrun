@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d2a5813378f21678e71a006d0cdbdfcf",
+    "content-hash": "9a8165fe4cd7585a39c62883b89f9ca6",
     "packages": [
         {
             "name": "composer/installers",
@@ -1110,22 +1110,58 @@
             "time": "2023-11-12T22:43:29+00:00"
         },
         {
-            "name": "wpackagist-plugin/cloudflare",
-            "version": "4.12.7",
+            "name": "wpackagist-plugin/google-site-kit",
+            "version": "1.128.1",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/cloudflare/",
-                "reference": "tags/4.12.7"
+                "url": "https://plugins.svn.wordpress.org/google-site-kit/",
+                "reference": "tags/1.128.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cloudflare.4.12.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/google-site-kit.1.128.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/cloudflare/"
+            "homepage": "https://wordpress.org/plugins/google-site-kit/"
+        },
+        {
+            "name": "wpackagist-plugin/litespeed-cache",
+            "version": "6.2.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/litespeed-cache/",
+                "reference": "tags/6.2.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/litespeed-cache.6.2.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/litespeed-cache/"
+        },
+        {
+            "name": "wpackagist-plugin/offload-media-cloud-storage",
+            "version": "1.1.11",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/offload-media-cloud-storage/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/offload-media-cloud-storage.zip?timestamp=1715926259"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/offload-media-cloud-storage/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",

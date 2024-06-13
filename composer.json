@@ -47,7 +47,9 @@
     "ext-exif": "*",
     "ext-gd": "*",
     "ext-intl": "*",
-    "wpackagist-plugin/cloudflare": "^4.12"
+    "wpackagist-plugin/google-site-kit": "^1.128",
+    "wpackagist-plugin/offload-media-cloud-storage": "^1.1",
+    "wpackagist-plugin/litespeed-cache": "^6.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
