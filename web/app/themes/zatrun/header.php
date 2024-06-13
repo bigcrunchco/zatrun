@@ -130,7 +130,7 @@
 					</nav>
 					<div class="search">
 						<form method="get" autocapitalize="off" autocomplete="off" autocorrect="off" action="<?= esc_url( home_url( '/' ) ); ?>">
-							<input type="text" value="<?= get_search_query(); ?>" name="s" id="s" placeholder="Arama yap..." />
+							<input type="text" value="<?= get_search_query(); ?>" name="s" id="s" placeholder="Search" />
 						</form>
 					</div>
 				</div>
@@ -140,7 +140,7 @@
 	<!-- Mobile Search & Mobile Menu -->
 	<div class="mobile-search">
 		<form method="get" autocapitalize="off" autocomplete="off" autocorrect="off" action="<?= esc_url( home_url( '/' ) ); ?>">
-			<input type="text" value="<?= get_search_query(); ?>" name="s" id="s" placeholder="Arama yap..." />
+			<input type="text" value="<?= get_search_query(); ?>" name="s" id="s" placeholder="Search" />
 			<div class="mobile-button close-search">
 				<i class="ri-close-line"></i>
 			</div>
