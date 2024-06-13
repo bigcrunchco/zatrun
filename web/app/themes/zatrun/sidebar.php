@@ -22,7 +22,7 @@
 					?>
 						<a href="<?php the_permalink(); ?>" class="post-link">
 							<h4 class="post-title"><?php the_title(); ?></h4>
-							<span class="date"><?= esc_html(human_time_diff(get_the_time('U'), current_time('timestamp'))) . ' önce'; ?></span>
+							<span class="date"><?= esc_html(human_time_diff(get_the_time('U'), current_time('timestamp'))) . ' ago'; ?></span>
 						</a>
 					<?php endwhile;
 					wp_reset_postdata();

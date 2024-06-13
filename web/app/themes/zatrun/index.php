@@ -174,7 +174,7 @@
 												<span class="category"><?php echo esc_html($category->cat_name); ?></span>
 											<?php endif; ?>
 											<span class="title"><?php the_title(); ?></span>
-											<span class="date"><?php echo esc_html(human_time_diff(get_the_time('U'), current_time('timestamp'))) . ' önce'; ?></span>
+											<span class="date"><?php echo esc_html(human_time_diff(get_the_time('U'), current_time('timestamp'))) . ' ago'; ?></span>
 										</div>
 									</a>
 							<?php
