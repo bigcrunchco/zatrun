@@ -56,7 +56,7 @@
         <div class="col-md-3 col-12">
           <div class="footer-col social-media">
             <div class="header">
-              <h4 class="title">Sosyal Medya</h4>
+              <h4 class="title">Social Media</h4>
             </div>
             <div class="links">
               <a class="social-link" href="https://instagram.com/<?= get_theme_mod('instagram') ?>" rel="me" target="_blank" title="Instagram">
