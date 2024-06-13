@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0134cfeb57bcbcf8155d9a8c60ae891f",
+    "content-hash": "d2a5813378f21678e71a006d0cdbdfcf",
     "packages": [
         {
             "name": "composer/installers",
@@ -1110,40 +1110,22 @@
             "time": "2023-11-12T22:43:29+00:00"
         },
         {
-            "name": "wpackagist-plugin/do-spaces-sync",
-            "version": "2.2.1",
+            "name": "wpackagist-plugin/cloudflare",
+            "version": "4.12.7",
             "source": {
                 "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/do-spaces-sync/",
-                "reference": "tags/2.2.1"
+                "url": "https://plugins.svn.wordpress.org/cloudflare/",
+                "reference": "tags/4.12.7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/do-spaces-sync.2.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/cloudflare.4.12.7.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
             },
             "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/do-spaces-sync/"
-        },
-        {
-            "name": "wpackagist-plugin/litespeed-cache",
-            "version": "6.2.0.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/litespeed-cache/",
-                "reference": "tags/6.2.0.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/litespeed-cache.6.2.0.1.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/litespeed-cache/"
+            "homepage": "https://wordpress.org/plugins/cloudflare/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
